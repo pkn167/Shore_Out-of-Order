@@ -11,3 +11,14 @@ sudo apt-get -y dist-upgrade
 Clone the SHORE github
 
 git clone --recursive https://github.com/pkn167/Shore_Out-of-Order
+
+
+**for OUTPUT**
+
+cd Shore_Out-of-Order
+make
+
+#to run the ouput 
+./main
+
+the ouput file will be generated into .txt format.
